@@ -54,9 +54,7 @@ O OffTube é uma ferramenta para uso pessoal. Respeite os [Termos de Serviço do
 **O download falha?**
 - Verifique sua conexão com a internet
 - Confirme se o link do vídeo está correto e se o vídeo não é privado
-
-**Vídeo não disponível na resolução escolhida?**
-- Nem todos os vídeos estão disponíveis em todas as qualidades. Tente uma resolução menor.
+- Se estiver dando erro de cookie, reinicia a internet que volta a funcionar. (Raro)
 
 ---
 
