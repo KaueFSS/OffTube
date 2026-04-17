@@ -2,6 +2,9 @@
 
 > Baixe vídeos do YouTube direto para o seu PC — sem navegador, sem complicação.
 
+<img width="1488" height="984" alt="image" src="https://github.com/user-attachments/assets/78bedf65-b1bd-4c62-9b63-5f1a57088df0" />
+
+
 ---
 
 ## ✨ O que é o OffTube?
