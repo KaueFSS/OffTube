@@ -60,11 +60,3 @@ O OffTube é uma ferramenta para uso pessoal. Respeite os [Termos de Serviço do
 - Se estiver dando erro de cookie, reinicia a internet que volta a funcionar. (Raro)
 
 ---
-
-## 📄 Licença
-
-Este projeto é distribuído para uso pessoal. Veja o arquivo `LICENSE` para mais detalhes.
-
----
-
-<p align="center">Feito com ❤️ para quem quer assistir offline</p>
